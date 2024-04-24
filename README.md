@@ -1,2 +1,2 @@
 # Calculator
-website : https://larbibaraka.github.io/reactualtor/
+Website : https://larbibaraka.github.io/reactualtor/
